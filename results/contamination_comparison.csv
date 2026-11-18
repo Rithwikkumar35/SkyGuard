@@ -1,0 +1,5 @@
+contamination_setting,records_analyzed,flagged_records,flagged_percentage,mean_anomaly_score,std_anomaly_score,min_anomaly_score,runtime_ms
+0.01,6077,61,1.0,0.2095,0.056,-0.0713,179.22
+0.03,6077,183,3.01,0.1521,0.056,-0.1287,157.87
+0.05,6077,304,5.0,0.1193,0.056,-0.1614,166.86
+0.1,6077,608,10.0,0.0736,0.056,-0.2072,161.74

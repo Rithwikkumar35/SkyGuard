@@ -1,0 +1,4 @@
+algorithm,paradigm,flagged_observations,flagged_percentage,silhouette_score,runtime_ms
+Isolation Forest,Tree-based Partitioning,183,3.01,0.5518,136.64
+Local Outlier Factor,K-NN Density Deviation,183,3.01,0.2246,27.34
+DBSCAN,Density Clustering (Noise),14,0.23,0.7638,114.22

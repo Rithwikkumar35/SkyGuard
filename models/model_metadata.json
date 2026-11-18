@@ -1,0 +1,33 @@
+{
+    "project": "SkyGuard Weather Anomaly Detection",
+    "algorithm": "Isolation Forest",
+    "timestamp": "2026-11-18 22:00:28",
+    "total_records_trained": 6077,
+    "n_estimators": 150,
+    "random_state": 42,
+    "contamination_setting": 0.03,
+    "feature_mode": "baseline",
+    "features_used": [
+        "TMIN",
+        "TAVG",
+        "TMAX",
+        "PRCP",
+        "WSPD"
+    ],
+    "flagged_observations": 183,
+    "flagged_percentage": 3.01,
+    "score_statistics": {
+        "mean": 0.15208,
+        "std": 0.05604,
+        "min": -0.12868,
+        "max": 0.21464,
+        "threshold_offset": -0.59467,
+        "quantiles": {
+            "1%": -0.05739,
+            "3%": 0.0,
+            "5%": 0.03274,
+            "10%": 0.07849,
+            "50%": 0.17006
+        }
+    }
+}

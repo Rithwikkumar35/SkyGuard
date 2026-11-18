@@ -1,0 +1,10 @@
+Project Title: SkyGuard — Weather-Station Sensor Anomaly Detection
+Subject: INT396 — Unsupervised Learning
+Problem Statement ID: [PS-INT396-WEATHER-01]
+Registration Numbers of All Group Members:
+  - Member 1: [STUDENT_NAME_1] (Reg No: [REGISTRATION_NUMBER_1])
+  - Member 2: [STUDENT_NAME_2] (Reg No: [REGISTRATION_NUMBER_2])
+  - Member 3: [STUDENT_NAME_3] (Reg No: [REGISTRATION_NUMBER_3])
+
+GitHub Repository Link: [GITHUB_REPOSITORY_URL]
+Live Deployed Project Link: [STREAMLIT_COMMUNITY_CLOUD_URL]
