@@ -161,7 +161,7 @@ In real-world meteorological networks, observational datasets do not come with p
 
 ```bash
 # 1. Clone the repository
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Rithwikkumar35/SkyGuard.git
 cd SkyGuard
 
 # 2. Create and activate a Python virtual environment

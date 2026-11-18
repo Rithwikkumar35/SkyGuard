@@ -6,5 +6,5 @@ Registration Numbers of All Group Members:
   - Member 2: [STUDENT_NAME_2] (Reg No: [REGISTRATION_NUMBER_2])
   - Member 3: [STUDENT_NAME_3] (Reg No: [REGISTRATION_NUMBER_3])
 
-GitHub Repository Link: [GITHUB_REPOSITORY_URL]
+GitHub Repository Link: https://github.com/Rithwikkumar35/SkyGuard
 Live Deployed Project Link: [STREAMLIT_COMMUNITY_CLOUD_URL]
